@@ -1,2 +1,2 @@
 # BabbleCreators
-Names of people who developed the Babble application
+This application was developed by Thanjila Uddin and Tahbee Hassan
